@@ -1,0 +1,7 @@
+C:\Users\Usuario\Desktop\Eloisa\Prj_Conversão\prj36339_Lista06_Ex01\bin\Debug\prj36339_Lista06_Ex01.exe.config
+C:\Users\Usuario\Desktop\Eloisa\Prj_Conversão\prj36339_Lista06_Ex01\bin\Debug\prj36339_Lista06_Ex01.exe
+C:\Users\Usuario\Desktop\Eloisa\Prj_Conversão\prj36339_Lista06_Ex01\bin\Debug\prj36339_Lista06_Ex01.pdb
+C:\Users\Usuario\Desktop\Eloisa\Prj_Conversão\prj36339_Lista06_Ex01\obj\Debug\Prj_Conversão.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Eloisa\Prj_Conversão\prj36339_Lista06_Ex01\obj\Debug\Prj_Conversão.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Eloisa\Prj_Conversão\prj36339_Lista06_Ex01\obj\Debug\prj36339_Lista06_Ex01.exe
+C:\Users\Usuario\Desktop\Eloisa\Prj_Conversão\prj36339_Lista06_Ex01\obj\Debug\prj36339_Lista06_Ex01.pdb
